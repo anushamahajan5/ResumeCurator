@@ -85,8 +85,7 @@ The frontend provides the user interface for interacting with the application.
 -   **Open a new terminal or command prompt window.**
 -   **Navigate to the frontend folder:**
     ```bash
-    cd ../frontend # Assuming you are still in the 'backend' directory from the previous step
-    # or if you are in the project root: cd frontend
+    cd frontend
     ```
 -   **Install frontend dependencies:**
     ```bash
